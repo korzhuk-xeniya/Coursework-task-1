@@ -14,6 +14,5 @@ public class Main {
     public static void main(String[] args) {
         String[] word = {"т", "о", "п", "о", "р"};
         System.out.println(reverseArray(word));
-
     }
 }
